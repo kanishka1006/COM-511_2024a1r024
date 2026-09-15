@@ -1,0 +1,1 @@
+#Take roll number and exract admission year , program code, and rollnumber digit using slicing.
