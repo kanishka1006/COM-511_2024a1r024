@@ -1,0 +1,1 @@
+#Create a product class with product name and price. Create an object and display the using an instance method to calculate the total cost. Take the values from the user and display the product name and total cost.
